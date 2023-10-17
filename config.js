@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;0jZ00KiL#RDabqMwDAhQGs2eQXzqhnxBrs2FgXCwhAiRE-XaxpWE' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = ''
@@ -23,9 +23,9 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94702152798'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'shehan'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,15 +41,15 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'SK'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
 global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
 
-global.FOOTER = 'Queen Nilu 2023 '
+global.FOOTER = 'sk 2023 '
 
-global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
+global.LANG = 'SI' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
@@ -76,7 +76,7 @@ global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur gro
 
 /* 18 + Download Settings */
 
-global.SEX_DL = 'false' // 18 + video dl
+global.SEX_DL = 'true' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
